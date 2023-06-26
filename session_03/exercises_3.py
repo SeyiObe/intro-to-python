@@ -84,4 +84,4 @@
 #     d.	45 to 50 – D
 #     e.	25 to 45 – E
 #     f.	Below 25 - F
-#   Ask user to enter the lesson and the marks for three lessons and print out the corresponding grades for the lesson.
+#   Ask user to enter the lesson and the marks for three lessons and print out the corresponding grades for the lessons.
